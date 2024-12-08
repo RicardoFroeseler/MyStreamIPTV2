@@ -2,4 +2,4 @@
 Streming de filmes
 
 
-https://ricardofroeseler.github.io/MyStreamIPTV/
+https://ricardofroeseler.github.io/MyStreamIPTV2/
